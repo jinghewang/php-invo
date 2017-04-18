@@ -1,0 +1,1 @@
+Tue 18 13:51:23 localhost php: [WARNING] E_CORE_WARNING: PHP Startup: Unable to load dynamic library '/usr/local/Cellar/php56/5.6.30_6/lib/php/extensions/no-debug-zts-20131226/scws.so' - dlopen(/usr/local/Cellar/php56/5.6.30_6/lib/php/extensions/no-debug-zts-20131226/scws.so, 9): image not found in Unknown on line 0
